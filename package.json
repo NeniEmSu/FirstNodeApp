@@ -1,0 +1,25 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "My first node and express js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello NeniEmsu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptodoct0r/FirstNodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "node.js",
+    "express"
+  ],
+  "author": "Neni Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptodoct0r/FirstNodeApp/issues"
+  },
+  "homepage": "https://github.com/cryptodoct0r/FirstNodeApp#readme"
+}
