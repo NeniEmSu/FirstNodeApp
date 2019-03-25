@@ -12,5 +12,5 @@ const indexRouter = require('./routes/index')
 
 app.use('/', indexRouter)
 
-app.listen(3000)
-console.log('server running on http://localhost:3000')
+app.listen(8000)
+console.log('server running on http://localhost:8000')
